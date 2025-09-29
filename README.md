@@ -28,5 +28,3 @@ The goal is to uncover patterns, trends, and key insights about passenger surviv
 Gained insights into survival patterns and relationships between passenger features.
 
 ---
-
-## 📁 Project Structure
